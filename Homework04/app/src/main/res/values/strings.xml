@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework04</string>
+    <string name="PassPromptText">Password:</string>
+    <string name="passwordText" />
+    <string name="passAmountPromptText">Select Passwords Count:</string>
+    <string name="countUpdateText" />
+    <string name="buttGenerateThread">Generate Passwords (Thread)</string>
+    <string name="buttGenerateAsync">Generate Passwords (Async Task)</string>
+    <string name="LengthPromptText">Select Passwords Length:</string>
+    <string name="LengthUpdateText" />
+</resources>
